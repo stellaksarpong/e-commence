@@ -25,7 +25,7 @@ let products = [
     id: 4, 
     name: "Cantu hair product", 
     price: 1000.0, 
-    description: "This Cantu Essentials -  Bundle helps you embrace your natural, beautiful and textured hair as well as owning your unique style. Cantu is here to celebrate these strong, gorgeous women and their strong, gorgeous hair, because perfect natural is what Cantu is all about. It Nourishes & treats your hair.", 
+    description: "This Cantu Essentials -  Bundle helps you embrace your natural, beautiful and textured hair as well as owning your unique style. Cantu is here to celebrate these strong, gorgeous women and their strong, gorgeous hair, because perfect natural is what Cantu is all about.and it a good. It Nourishes & treats your hair.", 
     image: "images/1.jpg"
   },
   { 
